@@ -1,0 +1,7 @@
+---
+pageClass: pageArticles
+---
+
+<Articles />
+
+[Home](/)
